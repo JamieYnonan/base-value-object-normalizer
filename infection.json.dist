@@ -13,6 +13,6 @@
     },
     "phpUnit": {
         "configDir": ".",
-        "customPath": "\/app\/vendor\/bin\/phpunit"
+        "customPath": "vendor\/bin\/phpunit"
     }
 }
